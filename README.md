@@ -1,16 +1,5 @@
-Based on the code and project details you provided, here is a comprehensive `README.md` file tailored for your GitHub repository.
-
-It includes sections for project overview, architecture, setup instructions (including AWS S3 and DVC), and how to run experiments.
-
------
-
 ````markdown
 # Reproducible ML Pipeline with DVC and AWS S3
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![DVC](https://img.shields.io/badge/DVC-Data%20Version%20Control-9cf)
-![AWS S3](https://img.shields.io/badge/AWS-S3-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## 📌 Project Overview
 
